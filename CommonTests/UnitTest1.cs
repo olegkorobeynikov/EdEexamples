@@ -19,7 +19,7 @@ namespace CommonTests
         [TestCase("s2")]
         public void Test2(string str)
         {
-            Log.Info("Test1 here");
+            Log.Info("Test2 here");
             Assert.Pass(str);
         }
     }
