@@ -1,7 +1,7 @@
 ﻿using NLog;
 using TestCore.Extensions;
 
-namespace CommonTests
+namespace CommonTests.LoggerExample
 {
     public class TestBase
     {
