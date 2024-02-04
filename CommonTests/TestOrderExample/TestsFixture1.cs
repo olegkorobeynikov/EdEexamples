@@ -1,4 +1,6 @@
-﻿namespace CommonTests.TestOrderExample
+﻿//[assembly: FixtureLifeCycle(LifeCycle.InstancePerTestCase)]
+
+namespace CommonTests.TestOrderExample
 {
     internal class Fixture : TestBase
     {
