@@ -47,7 +47,7 @@
         {
             Log.Info($"Fixture - TestCaseCreator");
             yield return new TestCaseData("case1");
-            yield return new TestCaseData("case1");
+            yield return new TestCaseData("case2");
         }
     }
 }
