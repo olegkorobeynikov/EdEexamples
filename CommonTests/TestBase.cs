@@ -1,5 +1,5 @@
-﻿using TestCore;
-using NLog;
+﻿using NLog;
+using TestCore.Extensions;
 
 namespace CommonTests
 {

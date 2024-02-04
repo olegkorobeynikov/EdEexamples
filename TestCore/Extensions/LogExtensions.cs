@@ -1,6 +1,6 @@
 ﻿using NLog;
 
-namespace TestCore
+namespace TestCore.Extensions
 {
     public static class LogExtensions
     {
