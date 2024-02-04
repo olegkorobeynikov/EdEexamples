@@ -1,4 +1,4 @@
-namespace CommonTests
+namespace CommonTests.LoggerExample
 {
     public class Tests : TestBase
     {
