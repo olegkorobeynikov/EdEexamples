@@ -1,7 +1,6 @@
 **PassingFixtureParameter:**
 
-The importance is hidden in the parameter - FixtureLifeCycle.<br>
-Note how the order of method calls is changed and how parameters are passed.
+You can pass parameters through the fixture by taking a parameter in the constructor, but this will all work in unexpected ways if you use a non-default value in the FixtureLifeCycle attribute. The logs below shows how the order of method calls is changed and how parameters are passed.
 
 
 #### [FixtureLifeCycle(LifeCycle.SingleInstance)] (default)
